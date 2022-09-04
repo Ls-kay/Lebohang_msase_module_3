@@ -1,15 +1,16 @@
 {
   "expo": {
     "name": "SimpleApp",
-    "slug": "SimpleApp",
+    "owner": "lebohang2001",
+    "slug": "simpleapp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon1.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splash1.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#332424"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -22,8 +23,8 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "foregroundImage": "./assets/adaptive-icon1.png",
+        "backgroundColor": "#332424"
       }
     },
     "web": {
